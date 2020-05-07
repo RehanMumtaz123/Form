@@ -1,0 +1,36 @@
+h1{
+    color: #6b5acd;
+     margin: 0px;
+     text-align: center;
+}
+.five{
+color:rgb(34, 204, 34); font-size: xx-large;
+}
+.six{
+color: rgb(243, 111, 243); font-style: inherit; font-size: x-large ;
+}
+.seven{
+font-size: x-large;
+}
+.one{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 50%;
+}
+form {
+    background-color: #6b5acd; 
+    border-radius:5px ;
+    margin-left: 25% ; width: 55%;
+    color: aliceblue; height:790px ;
+}
+.two{
+    padding-left: 1cm;
+}
+.three{
+    padding-left: 1cm;
+    font-size: smaller;
+}
+.four{
+    padding-left: 1.8cm;
+    }
